@@ -1,5 +1,6 @@
-a = 'hello '
-b = 'all '
-c = 'guys'
-d = a+b+c
-print(d)
+a = 'how '
+b = 'are '
+c = 'you'
+d = 'guys'
+e = a+b+c+d
+print(e)
